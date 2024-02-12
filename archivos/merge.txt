@@ -1,3 +1,6 @@
 Juan Esteban Pineda Henao
 17
 Aprender los fundamento de la POO
+Porque ya no esta vacia la carpeta, y eso ya es un cambio para GitHub sobre el repositorio y por lo tanto se puede hacer un commit
+
+Debido a que estos pueden generar un conflicto
